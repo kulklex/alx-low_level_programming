@@ -12,7 +12,8 @@ return (0);
 return (actual_prime(n, n - 1));
 }
 /**
-* actual_prime - calculates if a number is prime recursi* @n: number to evaluate
+* actual_prime - calculates if a number is prime recursion
+* @n: number to evaluate
 * @i: iterator
 *
 * @n: number to evaluate
