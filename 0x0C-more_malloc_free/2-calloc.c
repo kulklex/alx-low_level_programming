@@ -1,12 +1,12 @@
 #include <stdlib.h>
 #include "main.h"
 /**
-* *_memset - fills memory with a cnstat byte
+* *_memset - fills memory with a costant byte
 * @s: memory area to be filled
 * @b: char to copy
 * @n: number of times to copy b
 *
-* Rteurn: pointer ti the memory area s
+* Return: pointer to the memory area
 */
 char *_memset(char *s, char b, unsigned int n)
 {
